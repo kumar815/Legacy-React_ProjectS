@@ -1,0 +1,36 @@
+h1 {
+    margin: 50px;
+    padding: 20px;
+    color: white;
+    background: linear-gradient(30deg, rgb(206, 111, 198), rgb(53, 121, 160), rgb(94, 172, 94), rgb(219, 219, 125))
+}
+
+.container-1 {
+    background-color: black;
+    padding: 10px;
+    font-weight: bold;
+    column-gap: 20px;
+    margin: 50px;
+    text-align: center;
+}
+
+.bd-primary.text-white {
+    background-color: rgb(196, 136, 136);
+    color: white;
+    image-rendering: auto;
+}
+
+.tbod.bd-primary.text-white {
+    display: inline;
+    display: grid;
+    grid-template-columns: 2fr 2fr 2fr 2fr 2fr;
+    columns: auto;
+}
+
+
+/*.bg-dark.font-white {
+    color: white;
+    display: inline;
+    display: grid;
+    grid-template-columns: 2fr 2fr 2fr 2fr 2fr 2fr;
+}*/

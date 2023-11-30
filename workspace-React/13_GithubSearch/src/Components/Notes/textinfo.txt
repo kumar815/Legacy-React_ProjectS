@@ -1,0 +1,17 @@
+git hub profile Search App
+
+//this is a github setup link
+//search chorem broeser "https://api.github.com/user/mdo"
+{
+  "message": "Not Found",
+  "documentation_url": "https://docs.github.com/rest/users/users#get-a-user"
+}
+
+//clinetid,clinet secrat[open github]-setting click ,developer setting click
+//oauthapp click ,create new file 
+//create name 
+
+Client ID
+47a7fa6472319761afc9
+Client secrat
+b397cb7432207483b1f14f775cdfe11c9c44f993

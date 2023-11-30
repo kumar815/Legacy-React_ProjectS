@@ -1,0 +1,60 @@
+.navbar {
+    text-align: center;
+    background: linear-gradient(30deg, rgb(214, 180, 180), rgb(160, 185, 91), rgb(212, 163, 72));
+    font-weight: bolder;
+    font-size: xx-large;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.navbar::before {
+    color-scheme: #c48f8f;
+}
+
+.navbar:hover {
+    scale: 0.8;
+    column: gap 4px;
+}
+
+.navbar::after {
+    color-scheme: rgb(41, 126, 66);
+    transition: 0.2ms;
+}
+
+.card-body.bg-light {
+    margin-top: 50px;
+    padding: 12px;
+    text-align: center;
+    font-weight: 800;
+    background: linear-gradient(20deg, rgb(206, 150, 150), rgb(111, 219, 169), white);
+    border-radius: 15px;
+    margin: 5px;
+    border: 10px silver solid;
+    text-align: left;
+    font-weight: normal;
+    float: none;
+    margin-bottom: 30px;
+}
+
+.list-group-item {
+    list-style-type: none;
+    text-shadow: 1px blueviolet;
+}
+
+.container {
+    margin: 40px;
+    padding: 30px;
+    font-size: large;
+    text-align: center;
+    color: rgb(21, 24, 21);
+    width: 800px;
+}
+
+.card-header {
+    padding: 10px;
+    background: linear-gradient(30deg, gray, rgb(189, 189, 95), rgb(116, 76, 153));
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+}

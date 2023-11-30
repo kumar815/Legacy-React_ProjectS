@@ -1,0 +1,85 @@
+/* EmployeeForm.css */
+
+.container {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+label {
+    font-weight: bold;
+}
+
+input[type="text"],
+input[type="email"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+button {
+    background-color: #007BFF;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+
+/*
+//looping styele
+.p-3 {
+    margin: 50px;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.form-check {
+    text-align: left;
+    margin-bottom: 1px;
+}
+*/
+
+
+/* this Registarcode
+    
+    .p-3 {
+    margin: 1px;
+    padding: 2px;
+    text-align: center;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    align-items: center;
+}
+
+.p-3.container {
+    text-align: left;
+    background-color: rgb(38, 172, 61);
+    font-weight: normal;
+}
+
+.card {
+    width: 300px;
+    height: 400px;
+    align-items: center;
+}
+
+.card-body {
+    padding: 1px;
+    width: 300px;
+    row-gap: 3rem;
+}
+    
+    
+    */

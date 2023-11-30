@@ -1,0 +1,7 @@
+s bcryptjs use to 3 re party module local code modules also.
+this is for payment ,password,email validations modules 
+downlode bcryptjs directly not use it ypu install npm install --yes(ths is a package.json file).
+how to install bcryptjs in a terminal?
+npm i bcriptjs
+how to install package.json file?
+npm install --yes

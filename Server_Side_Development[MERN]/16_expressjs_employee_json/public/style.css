@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    margin-top: 10px;
+    padding: 5px;
+}
+
+.Landingpage {
+    background: rgb(155, 93, 93) url("public/imgage/bg_landing.jpg") no-repeat scroll center;
+    background-size: cover;
+    height: 100vh;
+    color: rgb(102, 58, 58);
+}
+
+.wrapper {
+    background-color: rgba(184, 47, 47, 0.5);
+    height: 100%;
+}
